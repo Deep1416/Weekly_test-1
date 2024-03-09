@@ -32,7 +32,7 @@ function Passwod() {
     if (pass === "") {
       alert("--All checks are empty--");
     } else {
-      if (length < 8  || length > 51 ) {
+      if (length < 8 || length > 51) {
         alert("Length out of mentioned range");
       } else {
         setPassword(pass);
