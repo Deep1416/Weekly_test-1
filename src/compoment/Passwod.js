@@ -52,7 +52,7 @@ function Passwod() {
   };
 
   return (
-    <div className="w-11/12 mx-auto">
+    <div className="w-11/12 mx-auto pb-36">
       <div className="p-16">
         <h1 className="text-center text-4xl font-semibold mb-8">
           Password Generator
